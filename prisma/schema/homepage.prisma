@@ -1,4 +1,4 @@
-model Homepage {
-  title       String @unique
-  description Json
+model Homepage{
+  title String @unique
+  desc Json
 }
